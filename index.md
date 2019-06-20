@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Đạo Lập Trình
+## 1. Hư Vô
+---
+Lập trình viên bậc thầy nói: 
+> Khi bạn học được cách chụp lấy mã lỗi từ nhật ký trạng thái, đã đến lúc cho bạn rời đi
+---
+Một cái gì đó bí ẩn được hình thành, sinh ra trong hư vô. Chờ đợi một mình và bất biến, cùng lúc đó, nó vận động liên tục. Nó là nguồn gốc của tất cả các chương trình.
 
-You can use the [editor on GitHub](https://github.com/ducla5/tao-of-program/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tôi không biết tên của nó, vì vậy, tôi gọi nó là Đạo Lập Trình.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Nếu Đạo tốt, thì hệ điều hành tốt. 
+>
+> Nếu hệ điều hành tốt, thì trình biên dịch tốt.
+>
+> Nếu trình biên dịch tốt, thì ứng dụng tốt. 
+>
+> Người dùng hài lòng và tồn tại sự hài hòa trên thế giới.
 
-### Markdown
+Đạo lập trình thổi đi xa và trở về trong gió sáng.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+Đạo sinh ra mã máy. Mã máy sinh ra hợp ngữ
 
-```markdown
-Syntax highlighted code block
+Hợp ngữ sinh ra trình biên dịch. Ngày nay, có cả chục ngàn ngôn ngữ lập trình.
 
-# Header 1
-## Header 2
-### Header 3
+Mỗi ngôn ngữ có mục đích của nó, tuy khiêm tốn. Mỗi ngôn ngữ thể hiện âm và dương của phần mềm. Mỗi ngôn ngữ có vị trí của nó trong đạo.
 
-- Bulleted
-- List
+Nhưng đừng lập trình bằng COBOL nếu bạn có thể tránh.
 
-1. Numbered
-2. List
+---
+Ban đầu chính là Đạo, Đạo sinh ra không gian và thời gian, Do đó, Không gian và thời gian chính là âm và dương của lập trình.
 
-**Bold** and _Italic_ and `Code` text
+Lập trình viên không hiểu được đạo luôn luôn không có đủ thời gian và không gian cho chương trình của họ. Lập trình viên hiểu đạo luôn luôn đủ thời gian và không gian để đạt được mục đích.
 
-[Link](url) and ![Image](src)
-```
+**Làm sao mà khác được?**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+Lập trình viên thông thái được kể về Đạo và làm theo nó. Lập trình viên trung bình được kể về đạo và tìm kiếm nó. Lập trình viên ngu ngốc được kể về đạo và chế diễu nó.
 
-### Jekyll Themes
+**Nếu không người chê cười, đó không phải là Đạo.**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ducla5/tao-of-program/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Những âm thanh cao nhất là khó nghe nhất.
 
-### Support or Contact
+Đi về phía trước là một cách để rút lui.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tài năng lớn thể hiện mình vào cuối đời.
+
+Ngay cả một chương trình hoàn hảo vẫn có lỗi.
